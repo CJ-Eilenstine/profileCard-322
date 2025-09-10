@@ -19,3 +19,5 @@ In terminal, run `npx expo start`
 ### Step 4: Open
 
 You should see a qr code in terminal, scan that with your phone and the app should automatically open.
+
+![Image of App Running](image-1.png)
